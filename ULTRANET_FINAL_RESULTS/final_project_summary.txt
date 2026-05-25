@@ -1,0 +1,38 @@
+
+
+ULTRA-Net Final Experimental Summary
+====================================
+
+Dataset:
+--------
+BUS-BRA
+
+Completed Models:
+-----------------
+1. CNN Baseline
+2. CNN + Texture Fusion
+3. Vision Transformer
+4. Final Hybrid ULTRA-Net
+
+Best Performing Model:
+----------------------
+CNN + Texture Fusion
+
+Major Findings:
+----------------
+- Texture-guided fusion significantly improved
+  classification robustness.
+
+- Vision Transformers alone underperformed on
+  limited ultrasound data.
+
+- Hybrid multimodal fusion improved malignant
+  sensitivity.
+
+- Lesion-centric ROI extraction preserved
+  diagnostic morphology.
+
+Pipeline Completed:
+-------------------
+PHASE 1 → PHASE 9
+

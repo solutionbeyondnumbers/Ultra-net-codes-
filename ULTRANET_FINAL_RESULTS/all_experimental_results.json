@@ -1,0 +1,18 @@
+{
+    "CNN_BASELINE": {
+        "accuracy": 0.84,
+        "roc_auc": 0.93
+    },
+    "CNN_TEXTURE_FUSION": {
+        "accuracy": 0.89,
+        "roc_auc": 0.937
+    },
+    "VIT_BRANCH": {
+        "accuracy": 0.72,
+        "roc_auc": 0.73
+    },
+    "FINAL_ULTRANET": {
+        "accuracy": 0.8,
+        "roc_auc": 0.9
+    }
+}

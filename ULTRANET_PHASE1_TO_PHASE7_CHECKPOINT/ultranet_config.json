@@ -1,0 +1,24 @@
+{
+    "image_size": 256,
+    "texture_feature_dim": 51,
+    "batch_size": 16,
+    "num_classes": 2,
+    "class_names": [
+        "benign",
+        "malignant"
+    ],
+    "padding": 20,
+    "random_seed": 42,
+    "dataset_name": "BUS-BRA",
+    "preprocessing_pipeline": [
+        "Median Blur",
+        "CLAHE",
+        "Gamma Correction",
+        "Normalization"
+    ],
+    "texture_pipeline": [
+        "GLCM",
+        "LBP",
+        "Wavelets"
+    ]
+}

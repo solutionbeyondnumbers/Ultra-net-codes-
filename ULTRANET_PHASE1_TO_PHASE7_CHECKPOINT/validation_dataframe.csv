@@ -1,0 +1,376 @@
+dataset,image_id,image_path,mask_path,label,case_id,histology,birads,side,bbox,width,height,target
+BUS-BRA,bus_0845-s,./BUSBRA\Images\bus_0845-s.png,./BUSBRA\Masks\mask_0845-s.png,malignant,845,invasive ductal carcinoma,4,single,"[214,77,164,100]",566,467,1
+BUS-BRA,bus_0379-l,./BUSBRA\Images\bus_0379-l.png,./BUSBRA\Masks\mask_0379-l.png,benign,379,fibroadenoma,2,left,"[80,122,124,64]",320,433,0
+BUS-BRA,bus_0452-r,./BUSBRA\Images\bus_0452-r.png,./BUSBRA\Masks\mask_0452-r.png,benign,452,lipoma,3,right,"[150,26,128,62]",322,455,0
+BUS-BRA,bus_0491-r,./BUSBRA\Images\bus_0491-r.png,./BUSBRA\Masks\mask_0491-r.png,benign,491,fibrocystic changes,2,right,"[192,120,62,47]",322,451,0
+BUS-BRA,bus_0866-l,./BUSBRA\Images\bus_0866-l.png,./BUSBRA\Masks\mask_0866-l.png,benign,866,mastitis,2,left,"[26,78,224,103]",274,348,0
+BUS-BRA,bus_0156-l,./BUSBRA\Images\bus_0156-l.png,./BUSBRA\Masks\mask_0156-l.png,benign,156,fibroadenoma,2,left,"[50,36,181,98]",275,383,0
+BUS-BRA,bus_0807-s,./BUSBRA\Images\bus_0807-s.png,./BUSBRA\Masks\mask_0807-s.png,malignant,807,invasive ductal carcinoma,4,single,"[151,74,182,168]",459,471,1
+BUS-BRA,bus_0457-l,./BUSBRA\Images\bus_0457-l.png,./BUSBRA\Masks\mask_0457-l.png,malignant,457,invasive ductal carcinoma,3,left,"[103,159,97,76]",323,453,1
+BUS-BRA,bus_0907-l,./BUSBRA\Images\bus_0907-l.png,./BUSBRA\Masks\mask_0907-l.png,benign,907,cyst,3,left,"[86,23,116,58]",276,347,0
+BUS-BRA,bus_0049-l,./BUSBRA\Images\bus_0049-l.png,./BUSBRA\Masks\mask_0049-l.png,malignant,49,invasive ductal carcinoma,4,left,"[126,149,78,61]",276,354,1
+BUS-BRA,bus_0583-l,./BUSBRA\Images\bus_0583-l.png,./BUSBRA\Masks\mask_0583-l.png,benign,583,fibrocystic changes,2,left,"[107,14,66,55]",272,399,0
+BUS-BRA,bus_0599-l,./BUSBRA\Images\bus_0599-l.png,./BUSBRA\Masks\mask_0599-l.png,benign,599,fibroadenoma,4,left,"[63,24,178,115]",323,433,0
+BUS-BRA,bus_0738-s,./BUSBRA\Images\bus_0738-s.png,./BUSBRA\Masks\mask_0738-s.png,benign,738,fibroadenoma,3,single,"[239,92,66,40]",435,461,0
+BUS-BRA,bus_0595-l,./BUSBRA\Images\bus_0595-l.png,./BUSBRA\Masks\mask_0595-l.png,benign,595,fibroadenoma,2,left,"[108,100,126,75]",321,452,0
+BUS-BRA,bus_1052-r,./BUSBRA\Images\bus_1052-r.png,./BUSBRA\Masks\mask_1052-r.png,benign,1052,fibroadenoma,3,right,"[101,20,75,83]",277,304,0
+BUS-BRA,bus_1026-r,./BUSBRA\Images\bus_1026-r.png,./BUSBRA\Masks\mask_1026-r.png,benign,1026,cyst,4,right,"[83,25,129,61]",276,306,0
+BUS-BRA,bus_0159-l,./BUSBRA\Images\bus_0159-l.png,./BUSBRA\Masks\mask_0159-l.png,benign,159,fibroadenoma,3,left,"[46,154,186,106]",275,370,0
+BUS-BRA,bus_0185-l,./BUSBRA\Images\bus_0185-l.png,./BUSBRA\Masks\mask_0185-l.png,malignant,185,invasive ductal carcinoma,4,left,"[29,66,227,150]",275,369,1
+BUS-BRA,bus_0002-r,./BUSBRA\Images\bus_0002-r.png,./BUSBRA\Masks\mask_0002-r.png,benign,2,fibroadenoma,4,right,"[113,143,68,47]",276,371,0
+BUS-BRA,bus_0552-r,./BUSBRA\Images\bus_0552-r.png,./BUSBRA\Masks\mask_0552-r.png,benign,552,mastitis,3,right,"[111,82,152,90]",320,434,0
+BUS-BRA,bus_0609-l,./BUSBRA\Images\bus_0609-l.png,./BUSBRA\Masks\mask_0609-l.png,malignant,609,invasive ductal carcinoma,4,left,"[99,65,172,124]",323,431,1
+BUS-BRA,bus_0693-s,./BUSBRA\Images\bus_0693-s.png,./BUSBRA\Masks\mask_0693-s.png,benign,693,lipoma,2,single,"[117,61,109,51]",382,469,0
+BUS-BRA,bus_0377-l,./BUSBRA\Images\bus_0377-l.png,./BUSBRA\Masks\mask_0377-l.png,benign,377,fibroadenoma,2,left,"[71,31,191,110]",319,440,0
+BUS-BRA,bus_1034-r,./BUSBRA\Images\bus_1034-r.png,./BUSBRA\Masks\mask_1034-r.png,benign,1034,cyst,2,right,"[102,100,48,34]",276,303,0
+BUS-BRA,bus_0426-l,./BUSBRA\Images\bus_0426-l.png,./BUSBRA\Masks\mask_0426-l.png,malignant,426,invasive ductal carcinoma,4,left,"[47,65,191,159]",324,433,1
+BUS-BRA,bus_0935-r,./BUSBRA\Images\bus_0935-r.png,./BUSBRA\Masks\mask_0935-r.png,malignant,935,invasive lobular carcinoma,4,right,"[109,43,132,64]",287,347,1
+BUS-BRA,bus_0518-l,./BUSBRA\Images\bus_0518-l.png,./BUSBRA\Masks\mask_0518-l.png,benign,518,fibroadenoma,2,left,"[86,81,194,124]",320,434,0
+BUS-BRA,bus_0889-r,./BUSBRA\Images\bus_0889-r.png,./BUSBRA\Masks\mask_0889-r.png,benign,889,fibroadenoma,2,right,"[106,86,45,32]",287,353,0
+BUS-BRA,bus_0923-r,./BUSBRA\Images\bus_0923-r.png,./BUSBRA\Masks\mask_0923-r.png,benign,923,fibroadenoma,3,right,"[66,92,126,70]",285,329,0
+BUS-BRA,bus_0704-s,./BUSBRA\Images\bus_0704-s.png,./BUSBRA\Masks\mask_0704-s.png,benign,704,fibroadenoma,3,single,"[209,84,195,80]",570,468,0
+BUS-BRA,bus_0672-r,./BUSBRA\Images\bus_0672-r.png,./BUSBRA\Masks\mask_0672-r.png,benign,672,fibroadenoma,2,right,"[57,59,117,75]",324,450,0
+BUS-BRA,bus_0084-l,./BUSBRA\Images\bus_0084-l.png,./BUSBRA\Masks\mask_0084-l.png,malignant,84,invasive ductal carcinoma,5,left,"[67,53,120,102]",277,333,1
+BUS-BRA,bus_0583-r,./BUSBRA\Images\bus_0583-r.png,./BUSBRA\Masks\mask_0583-r.png,benign,583,fibrocystic changes,2,right,"[104,20,66,56]",271,399,0
+BUS-BRA,bus_0139-l,./BUSBRA\Images\bus_0139-l.png,./BUSBRA\Masks\mask_0139-l.png,benign,139,fibroadenoma,2,left,"[89,24,105,60]",278,314,0
+BUS-BRA,bus_1009-r,./BUSBRA\Images\bus_1009-r.png,./BUSBRA\Masks\mask_1009-r.png,malignant,1009,invasive ductal carcinoma,4,right,"[102,87,85,106]",276,305,1
+BUS-BRA,bus_0391-r,./BUSBRA\Images\bus_0391-r.png,./BUSBRA\Masks\mask_0391-r.png,benign,391,fibroadenoma,2,right,"[95,24,147,98]",322,430,0
+BUS-BRA,bus_0422-r,./BUSBRA\Images\bus_0422-r.png,./BUSBRA\Masks\mask_0422-r.png,benign,422,fibroadenoma,2,right,"[131,82,111,91]",323,454,0
+BUS-BRA,bus_0862-l,./BUSBRA\Images\bus_0862-l.png,./BUSBRA\Masks\mask_0862-l.png,malignant,862,lymphoma,4,left,"[27,36,235,86]",281,349,1
+BUS-BRA,bus_0450-r,./BUSBRA\Images\bus_0450-r.png,./BUSBRA\Masks\mask_0450-r.png,malignant,450,invasive ductal carcinoma,4,right,"[80,74,190,169]",324,455,1
+BUS-BRA,bus_0203-l,./BUSBRA\Images\bus_0203-l.png,./BUSBRA\Masks\mask_0203-l.png,benign,203,fibroadenoma,3,left,"[63,37,112,37]",282,345,0
+BUS-BRA,bus_0194-r,./BUSBRA\Images\bus_0194-r.png,./BUSBRA\Masks\mask_0194-r.png,benign,194,fibroadenoma,4,right,"[48,57,195,122]",278,314,0
+BUS-BRA,bus_0271-l,./BUSBRA\Images\bus_0271-l.png,./BUSBRA\Masks\mask_0271-l.png,malignant,271,invasive ductal carcinoma,4,left,"[36,75,206,141]",277,381,1
+BUS-BRA,bus_0921-l,./BUSBRA\Images\bus_0921-l.png,./BUSBRA\Masks\mask_0921-l.png,benign,921,fibroadenoma,3,left,"[80,94,101,49]",277,344,0
+BUS-BRA,bus_0123-r,./BUSBRA\Images\bus_0123-r.png,./BUSBRA\Masks\mask_0123-r.png,malignant,123,invasive ductal carcinoma,5,right,"[82,120,82,74]",276,333,1
+BUS-BRA,bus_0510-r,./BUSBRA\Images\bus_0510-r.png,./BUSBRA\Masks\mask_0510-r.png,benign,510,fibroadenoma,2,right,"[121,60,92,59]",325,433,0
+BUS-BRA,bus_0108-r,./BUSBRA\Images\bus_0108-r.png,./BUSBRA\Masks\mask_0108-r.png,benign,108,proliferative lesions,4,right,"[96,36,74,42]",276,333,0
+BUS-BRA,bus_0860-l,./BUSBRA\Images\bus_0860-l.png,./BUSBRA\Masks\mask_0860-l.png,malignant,860,invasive ductal carcinoma,5,left,"[31,145,223,223]",317,410,1
+BUS-BRA,bus_0102-r,./BUSBRA\Images\bus_0102-r.png,./BUSBRA\Masks\mask_0102-r.png,malignant,102,invasive ductal carcinoma,4,right,"[129,83,113,124]",276,371,1
+BUS-BRA,bus_0925-r,./BUSBRA\Images\bus_0925-r.png,./BUSBRA\Masks\mask_0925-r.png,benign,925,fibroadenoma,3,right,"[70,32,81,52]",288,355,0
+BUS-BRA,bus_0952-l,./BUSBRA\Images\bus_0952-l.png,./BUSBRA\Masks\mask_0952-l.png,benign,952,fibroadenoma,4,left,"[21,94,221,110]",268,352,0
+BUS-BRA,bus_0387-l,./BUSBRA\Images\bus_0387-l.png,./BUSBRA\Masks\mask_0387-l.png,malignant,387,invasive ductal carcinoma,4,left,"[97,43,156,137]",324,436,1
+BUS-BRA,bus_0130-r,./BUSBRA\Images\bus_0130-r.png,./BUSBRA\Masks\mask_0130-r.png,malignant,130,invasive ductal carcinoma,5,right,"[72,94,99,100]",276,383,1
+BUS-BRA,bus_0317-r,./BUSBRA\Images\bus_0317-r.png,./BUSBRA\Masks\mask_0317-r.png,benign,317,cyst,2,right,"[98,106,94,62]",275,313,0
+BUS-BRA,bus_0789-s,./BUSBRA\Images\bus_0789-s.png,./BUSBRA\Masks\mask_0789-s.png,benign,789,fibroadenoma,3,single,"[149,41,216,84]",569,470,0
+BUS-BRA,bus_0126-s,./BUSBRA\Images\bus_0126-s.png,./BUSBRA\Masks\mask_0126-s.png,benign,126,cyst,2,single,"[35,124,310,141]",402,383,0
+BUS-BRA,bus_0603-r,./BUSBRA\Images\bus_0603-r.png,./BUSBRA\Masks\mask_0603-r.png,benign,603,fibroadenoma,2,right,"[83,53,153,61]",321,455,0
+BUS-BRA,bus_0586-l,./BUSBRA\Images\bus_0586-l.png,./BUSBRA\Masks\mask_0586-l.png,benign,586,fibroadenoma,2,left,"[59,55,143,58]",322,431,0
+BUS-BRA,bus_0307-l,./BUSBRA\Images\bus_0307-l.png,./BUSBRA\Masks\mask_0307-l.png,benign,307,fibroadenoma,4,left,"[75,67,172,88]",277,297,0
+BUS-BRA,bus_0949-r,./BUSBRA\Images\bus_0949-r.png,./BUSBRA\Masks\mask_0949-r.png,malignant,949,invasive ductal carcinoma,4,right,"[61,86,211,133]",287,354,1
+BUS-BRA,bus_0556-l,./BUSBRA\Images\bus_0556-l.png,./BUSBRA\Masks\mask_0556-l.png,benign,556,fibroadenoma,2,left,"[69,53,133,72]",316,431,0
+BUS-BRA,bus_0718-s,./BUSBRA\Images\bus_0718-s.png,./BUSBRA\Masks\mask_0718-s.png,benign,718,fibroadenoma,2,single,"[168,29,92,77]",460,455,0
+BUS-BRA,bus_0977-l,./BUSBRA\Images\bus_0977-l.png,./BUSBRA\Masks\mask_0977-l.png,benign,977,fibroadenoma,4,left,"[37,86,116,76]",276,349,0
+BUS-BRA,bus_0899-s,./BUSBRA\Images\bus_0899-s.png,./BUSBRA\Masks\mask_0899-s.png,benign,899,sclerosing adenosis,3,single,"[197,121,93,38]",413,345,0
+BUS-BRA,bus_0258-r,./BUSBRA\Images\bus_0258-r.png,./BUSBRA\Masks\mask_0258-r.png,malignant,258,invasive ductal carcinoma,4,right,"[65,75,142,76]",276,334,1
+BUS-BRA,bus_0122-s,./BUSBRA\Images\bus_0122-s.png,./BUSBRA\Masks\mask_0122-s.png,benign,122,fibroadenoma,3,single,"[51,64,133,60]",293,382,0
+BUS-BRA,bus_0649-l,./BUSBRA\Images\bus_0649-l.png,./BUSBRA\Masks\mask_0649-l.png,malignant,649,invasive ductal carcinoma,4,left,"[120,131,101,108]",323,432,1
+BUS-BRA,bus_0019-r,./BUSBRA\Images\bus_0019-r.png,./BUSBRA\Masks\mask_0019-r.png,benign,19,fibroadenoma,4,right,"[58,39,192,125]",276,372,0
+BUS-BRA,bus_0911-r,./BUSBRA\Images\bus_0911-r.png,./BUSBRA\Masks\mask_0911-r.png,benign,911,fibroadenoma,3,right,"[43,96,128,58]",285,355,0
+BUS-BRA,bus_0309-r,./BUSBRA\Images\bus_0309-r.png,./BUSBRA\Masks\mask_0309-r.png,benign,309,fibroadenoma,3,right,"[47,59,124,44]",276,296,0
+BUS-BRA,bus_0697-l,./BUSBRA\Images\bus_0697-l.png,./BUSBRA\Masks\mask_0697-l.png,benign,697,fibroadenoma,3,left,"[31,106,223,111]",343,468,0
+BUS-BRA,bus_0016-r,./BUSBRA\Images\bus_0016-r.png,./BUSBRA\Masks\mask_0016-r.png,malignant,16,invasive ductal carcinoma,4,right,"[105,103,72,114]",276,384,1
+BUS-BRA,bus_0043-s,./BUSBRA\Images\bus_0043-s.png,./BUSBRA\Masks\mask_0043-s.png,malignant,43,invasive lobular carcinoma,4,single,"[148,74,90,64]",405,385,1
+BUS-BRA,bus_0087-l,./BUSBRA\Images\bus_0087-l.png,./BUSBRA\Masks\mask_0087-l.png,benign,87,fibroadenoma,3,left,"[76,38,170,79]",281,346,0
+BUS-BRA,bus_0242-r,./BUSBRA\Images\bus_0242-r.png,./BUSBRA\Masks\mask_0242-r.png,malignant,242,invasive ductal carcinoma,5,right,"[44,24,223,199]",277,370,1
+BUS-BRA,bus_0158-r,./BUSBRA\Images\bus_0158-r.png,./BUSBRA\Masks\mask_0158-r.png,benign,158,fibroadenoma,3,right,"[131,47,103,66]",275,370,0
+BUS-BRA,bus_0228-r,./BUSBRA\Images\bus_0228-r.png,./BUSBRA\Masks\mask_0228-r.png,benign,228,intraductal papilloma,4,right,"[77,57,112,63]",276,349,0
+BUS-BRA,bus_0759-s,./BUSBRA\Images\bus_0759-s.png,./BUSBRA\Masks\mask_0759-s.png,benign,759,fibroadenoma,2,single,"[186,69,163,70]",429,465,0
+BUS-BRA,bus_0417-r,./BUSBRA\Images\bus_0417-r.png,./BUSBRA\Masks\mask_0417-r.png,benign,417,sclerosing adenosis,3,right,"[39,86,223,102]",322,452,0
+BUS-BRA,bus_1030-l,./BUSBRA\Images\bus_1030-l.png,./BUSBRA\Masks\mask_1030-l.png,benign,1030,hyperplasia,3,left,"[153,57,59,34]",276,305,0
+BUS-BRA,bus_1033-r,./BUSBRA\Images\bus_1033-r.png,./BUSBRA\Masks\mask_1033-r.png,malignant,1033,invasive ductal carcinoma,4,right,"[131,24,241,166]",529,305,1
+BUS-BRA,bus_0671-l,./BUSBRA\Images\bus_0671-l.png,./BUSBRA\Masks\mask_0671-l.png,benign,671,fibroadenoma,2,left,"[68,117,169,96]",318,453,0
+BUS-BRA,bus_0346-l,./BUSBRA\Images\bus_0346-l.png,./BUSBRA\Masks\mask_0346-l.png,benign,346,cyst,2,left,"[41,75,117,80]",274,369,0
+BUS-BRA,bus_0020-l,./BUSBRA\Images\bus_0020-l.png,./BUSBRA\Masks\mask_0020-l.png,benign,20,fibroadenoma,4,left,"[89,160,135,95]",275,373,0
+BUS-BRA,bus_0508-l,./BUSBRA\Images\bus_0508-l.png,./BUSBRA\Masks\mask_0508-l.png,malignant,508,invasive ductal carcinoma,4,left,"[14,84,282,205]",323,454,1
+BUS-BRA,bus_0997-r,./BUSBRA\Images\bus_0997-r.png,./BUSBRA\Masks\mask_0997-r.png,benign,997,fibroadenoma,3,right,"[96,34,56,29]",276,303,0
+BUS-BRA,bus_0330-r,./BUSBRA\Images\bus_0330-r.png,./BUSBRA\Masks\mask_0330-r.png,malignant,330,invasive lobular carcinoma,5,right,"[53,101,152,115]",276,369,1
+BUS-BRA,bus_0159-r,./BUSBRA\Images\bus_0159-r.png,./BUSBRA\Masks\mask_0159-r.png,benign,159,fibroadenoma,3,right,"[102,147,107,90]",275,370,0
+BUS-BRA,bus_0967-l,./BUSBRA\Images\bus_0967-l.png,./BUSBRA\Masks\mask_0967-l.png,malignant,967,invasive ductal carcinoma,4,left,"[13,44,220,120]",276,345,1
+BUS-BRA,bus_0624-r,./BUSBRA\Images\bus_0624-r.png,./BUSBRA\Masks\mask_0624-r.png,malignant,624,invasive ductal carcinoma,4,right,"[54,74,135,102]",323,451,1
+BUS-BRA,bus_0932-r,./BUSBRA\Images\bus_0932-r.png,./BUSBRA\Masks\mask_0932-r.png,benign,932,hyperplasia,3,right,"[64,35,194,88]",284,353,0
+BUS-BRA,bus_0728-s,./BUSBRA\Images\bus_0728-s.png,./BUSBRA\Masks\mask_0728-s.png,malignant,728,invasive ductal carcinoma,4,single,"[196,36,198,222]",571,466,1
+BUS-BRA,bus_0417-l,./BUSBRA\Images\bus_0417-l.png,./BUSBRA\Masks\mask_0417-l.png,benign,417,sclerosing adenosis,3,left,"[46,83,265,94]",324,452,0
+BUS-BRA,bus_0792-s,./BUSBRA\Images\bus_0792-s.png,./BUSBRA\Masks\mask_0792-s.png,benign,792,fibroadenoma,3,single,"[44,32,299,151]",430,465,0
+BUS-BRA,bus_0944-r,./BUSBRA\Images\bus_0944-r.png,./BUSBRA\Masks\mask_0944-r.png,malignant,944,invasive ductal carcinoma,4,right,"[95,78,69,52]",286,352,1
+BUS-BRA,bus_0478-r,./BUSBRA\Images\bus_0478-r.png,./BUSBRA\Masks\mask_0478-r.png,malignant,478,invasive ductal carcinoma,5,right,"[50,57,199,178]",323,431,1
+BUS-BRA,bus_0626-r,./BUSBRA\Images\bus_0626-r.png,./BUSBRA\Masks\mask_0626-r.png,benign,626,fibroadenoma,2,right,"[82,103,82,67]",322,429,0
+BUS-BRA,bus_0198-l,./BUSBRA\Images\bus_0198-l.png,./BUSBRA\Masks\mask_0198-l.png,benign,198,fibroadenoma,3,left,"[78,154,109,48]",274,351,0
+BUS-BRA,bus_0535-r,./BUSBRA\Images\bus_0535-r.png,./BUSBRA\Masks\mask_0535-r.png,malignant,535,invasive ductal carcinoma,5,right,"[7,103,315,275]",322,430,1
+BUS-BRA,bus_0301-l,./BUSBRA\Images\bus_0301-l.png,./BUSBRA\Masks\mask_0301-l.png,benign,301,intraductal papilloma,3,left,"[82,43,95,50]",275,369,0
+BUS-BRA,bus_0266-r,./BUSBRA\Images\bus_0266-r.png,./BUSBRA\Masks\mask_0266-r.png,malignant,266,invasive ductal carcinoma,4,right,"[96,67,137,139]",275,368,1
+BUS-BRA,bus_0549-r,./BUSBRA\Images\bus_0549-r.png,./BUSBRA\Masks\mask_0549-r.png,benign,549,fibroadenoma,2,right,"[101,148,101,51]",322,430,0
+BUS-BRA,bus_0157-l,./BUSBRA\Images\bus_0157-l.png,./BUSBRA\Masks\mask_0157-l.png,benign,157,sclerosing adenosis,4,left,"[90,96,107,58]",275,370,0
+BUS-BRA,bus_0281-l,./BUSBRA\Images\bus_0281-l.png,./BUSBRA\Masks\mask_0281-l.png,malignant,281,invasive ductal carcinoma,5,left,"[85,102,100,131]",277,381,1
+BUS-BRA,bus_1057-r,./BUSBRA\Images\bus_1057-r.png,./BUSBRA\Masks\mask_1057-r.png,malignant,1057,invasive ductal carcinoma,5,right,"[36,88,187,119]",276,306,1
+BUS-BRA,bus_0274-r,./BUSBRA\Images\bus_0274-r.png,./BUSBRA\Masks\mask_0274-r.png,benign,274,fibrocystic changes,3,right,"[96,68,98,82]",275,382,0
+BUS-BRA,bus_0940-s,./BUSBRA\Images\bus_0940-s.png,./BUSBRA\Masks\mask_0940-s.png,malignant,940,invasive ductal carcinoma,4,single,"[128,94,100,162]",471,347,1
+BUS-BRA,bus_0381-l,./BUSBRA\Images\bus_0381-l.png,./BUSBRA\Masks\mask_0381-l.png,benign,381,fibrocystic changes,2,left,"[91,120,162,79]",321,429,0
+BUS-BRA,bus_0207-r,./BUSBRA\Images\bus_0207-r.png,./BUSBRA\Masks\mask_0207-r.png,benign,207,fibroadenoma,2,right,"[46,46,211,94]",276,370,0
+BUS-BRA,bus_0342-r,./BUSBRA\Images\bus_0342-r.png,./BUSBRA\Masks\mask_0342-r.png,malignant,342,invasive ductal carcinoma,5,right,"[42,77,187,194]",276,350,1
+BUS-BRA,bus_0523-r,./BUSBRA\Images\bus_0523-r.png,./BUSBRA\Masks\mask_0523-r.png,benign,523,cyst,2,right,"[157,43,52,43]",321,458,0
+BUS-BRA,bus_0954-r,./BUSBRA\Images\bus_0954-r.png,./BUSBRA\Masks\mask_0954-r.png,benign,954,fibroadenoma,4,right,"[86,70,109,92]",289,344,0
+BUS-BRA,bus_0010-r,./BUSBRA\Images\bus_0010-r.png,./BUSBRA\Masks\mask_0010-r.png,malignant,10,invasive lobular carcinoma,4,right,"[48,61,154,108]",275,353,1
+BUS-BRA,bus_0267-r,./BUSBRA\Images\bus_0267-r.png,./BUSBRA\Masks\mask_0267-r.png,malignant,267,invasive ductal carcinoma,4,right,"[39,41,213,128]",275,382,1
+BUS-BRA,bus_0875-l,./BUSBRA\Images\bus_0875-l.png,./BUSBRA\Masks\mask_0875-l.png,benign,875,cyst,2,left,"[65,158,100,44]",274,355,0
+BUS-BRA,bus_0902-r,./BUSBRA\Images\bus_0902-r.png,./BUSBRA\Masks\mask_0902-r.png,benign,902,cyst,3,right,"[124,33,38,22]",286,347,0
+BUS-BRA,bus_0416-r,./BUSBRA\Images\bus_0416-r.png,./BUSBRA\Masks\mask_0416-r.png,benign,416,fibroadenoma,2,right,"[48,40,212,77]",323,437,0
+BUS-BRA,bus_0343-r,./BUSBRA\Images\bus_0343-r.png,./BUSBRA\Masks\mask_0343-r.png,malignant,343,invasive ductal carcinoma,5,right,"[61,60,158,121]",278,406,1
+BUS-BRA,bus_0975-r,./BUSBRA\Images\bus_0975-r.png,./BUSBRA\Masks\mask_0975-r.png,benign,975,fibroadenoma,4,right,"[119,67,78,51]",285,352,0
+BUS-BRA,bus_0562-l,./BUSBRA\Images\bus_0562-l.png,./BUSBRA\Masks\mask_0562-l.png,benign,562,fibroadenoma,2,left,"[26,27,256,183]",318,435,0
+BUS-BRA,bus_0032-l,./BUSBRA\Images\bus_0032-l.png,./BUSBRA\Masks\mask_0032-l.png,malignant,32,invasive lobular carcinoma,4,left,"[10,100,209,140]",275,350,1
+BUS-BRA,bus_1006-r,./BUSBRA\Images\bus_1006-r.png,./BUSBRA\Masks\mask_1006-r.png,benign,1006,hyperplasia,4,right,"[107,105,110,69]",276,304,0
+BUS-BRA,bus_0822-s,./BUSBRA\Images\bus_0822-s.png,./BUSBRA\Masks\mask_0822-s.png,benign,822,fibroadenoma,4,single,"[129,74,359,190]",566,461,0
+BUS-BRA,bus_0164-l,./BUSBRA\Images\bus_0164-l.png,./BUSBRA\Masks\mask_0164-l.png,benign,164,fibroadenoma,3,left,"[1,92,251,174]",275,351,0
+BUS-BRA,bus_0885-l,./BUSBRA\Images\bus_0885-l.png,./BUSBRA\Masks\mask_0885-l.png,benign,885,fibroadenoma,2,left,"[37,25,189,76]",272,350,0
+BUS-BRA,bus_0547-l,./BUSBRA\Images\bus_0547-l.png,./BUSBRA\Masks\mask_0547-l.png,malignant,547,invasive ductal carcinoma,4,left,"[109,153,129,164]",321,454,1
+BUS-BRA,bus_0784-s,./BUSBRA\Images\bus_0784-s.png,./BUSBRA\Masks\mask_0784-s.png,benign,784,fibrocystic changes,2,single,"[208,77,160,52]",566,471,0
+BUS-BRA,bus_0058-r,./BUSBRA\Images\bus_0058-r.png,./BUSBRA\Masks\mask_0058-r.png,benign,58,fibrocystic changes,4,right,"[45,54,152,120]",277,371,0
+BUS-BRA,bus_0135-r,./BUSBRA\Images\bus_0135-r.png,./BUSBRA\Masks\mask_0135-r.png,benign,135,fibroadenoma,4,right,"[72,67,135,74]",277,352,0
+BUS-BRA,bus_0956-l,./BUSBRA\Images\bus_0956-l.png,./BUSBRA\Masks\mask_0956-l.png,benign,956,fibroadenoma,4,left,"[84,98,133,66]",275,349,0
+BUS-BRA,bus_0331-s,./BUSBRA\Images\bus_0331-s.png,./BUSBRA\Masks\mask_0331-s.png,malignant,331,invasive ductal carcinoma,5,single,"[16,75,388,179]",404,383,1
+BUS-BRA,bus_0793-s,./BUSBRA\Images\bus_0793-s.png,./BUSBRA\Masks\mask_0793-s.png,benign,793,fibroadenoma,2,single,"[205,53,160,85]",566,468,0
+BUS-BRA,bus_0131-l,./BUSBRA\Images\bus_0131-l.png,./BUSBRA\Masks\mask_0131-l.png,benign,131,cyst,2,left,"[12,36,251,121]",274,368,0
+BUS-BRA,bus_0509-l,./BUSBRA\Images\bus_0509-l.png,./BUSBRA\Masks\mask_0509-l.png,malignant,509,invasive ductal carcinoma,4,left,"[43,144,235,146]",322,453,1
+BUS-BRA,bus_0316-l,./BUSBRA\Images\bus_0316-l.png,./BUSBRA\Masks\mask_0316-l.png,benign,316,cyst,2,left,"[97,115,83,28]",277,314,0
+BUS-BRA,bus_0814-s,./BUSBRA\Images\bus_0814-s.png,./BUSBRA\Masks\mask_0814-s.png,benign,814,fibroadenoma,3,single,"[175,44,231,136]",568,468,0
+BUS-BRA,bus_0515-l,./BUSBRA\Images\bus_0515-l.png,./BUSBRA\Masks\mask_0515-l.png,benign,515,cyst,2,left,"[152,114,94,86]",320,452,0
+BUS-BRA,bus_0264-l,./BUSBRA\Images\bus_0264-l.png,./BUSBRA\Masks\mask_0264-l.png,malignant,264,invasive ductal carcinoma,4,left,"[92,105,118,124]",275,332,1
+BUS-BRA,bus_0585-r,./BUSBRA\Images\bus_0585-r.png,./BUSBRA\Masks\mask_0585-r.png,malignant,585,invasive ductal carcinoma,4,right,"[26,26,137,94]",322,459,1
+BUS-BRA,bus_0621-l,./BUSBRA\Images\bus_0621-l.png,./BUSBRA\Masks\mask_0621-l.png,benign,621,fibroadenoma,3,left,"[113,67,104,80]",270,399,0
+BUS-BRA,bus_0264-r,./BUSBRA\Images\bus_0264-r.png,./BUSBRA\Masks\mask_0264-r.png,malignant,264,invasive ductal carcinoma,4,right,"[71,114,127,121]",276,332,1
+BUS-BRA,bus_0908-l,./BUSBRA\Images\bus_0908-l.png,./BUSBRA\Masks\mask_0908-l.png,benign,908,fibroadenoma,3,left,"[22,65,204,73]",277,355,0
+BUS-BRA,bus_0263-l,./BUSBRA\Images\bus_0263-l.png,./BUSBRA\Masks\mask_0263-l.png,malignant,263,invasive lobular carcinoma,4,left,"[72,85,125,86]",273,383,1
+BUS-BRA,bus_0766-s,./BUSBRA\Images\bus_0766-s.png,./BUSBRA\Masks\mask_0766-s.png,malignant,766,invasive ductal carcinoma,4,single,"[211,53,93,104]",567,469,1
+BUS-BRA,bus_0471-l,./BUSBRA\Images\bus_0471-l.png,./BUSBRA\Masks\mask_0471-l.png,malignant,471,invasive ductal carcinoma,4,left,"[48,74,136,100]",322,434,1
+BUS-BRA,bus_0958-r,./BUSBRA\Images\bus_0958-r.png,./BUSBRA\Masks\mask_0958-r.png,benign,958,fibroadenoma,4,right,"[38,56,181,85]",261,352,0
+BUS-BRA,bus_0306-l,./BUSBRA\Images\bus_0306-l.png,./BUSBRA\Masks\mask_0306-l.png,benign,306,fibroadenoma,3,left,"[95,51,81,35]",275,368,0
+BUS-BRA,bus_0386-r,./BUSBRA\Images\bus_0386-r.png,./BUSBRA\Masks\mask_0386-r.png,benign,386,cyst,2,right,"[156,38,110,51]",322,411,0
+BUS-BRA,bus_0362-r,./BUSBRA\Images\bus_0362-r.png,./BUSBRA\Masks\mask_0362-r.png,malignant,362,invasive ductal carcinoma,2,right,"[54,64,236,133]",323,431,1
+BUS-BRA,bus_0275-r,./BUSBRA\Images\bus_0275-r.png,./BUSBRA\Masks\mask_0275-r.png,benign,275,fibroadenoma,3,right,"[136,80,80,45]",276,369,0
+BUS-BRA,bus_0619-l,./BUSBRA\Images\bus_0619-l.png,./BUSBRA\Masks\mask_0619-l.png,benign,619,cyst,2,left,"[64,80,220,152]",321,459,0
+BUS-BRA,bus_0645-l,./BUSBRA\Images\bus_0645-l.png,./BUSBRA\Masks\mask_0645-l.png,malignant,645,invasive ductal carcinoma,4,left,"[49,42,167,123]",320,431,1
+BUS-BRA,bus_0016-l,./BUSBRA\Images\bus_0016-l.png,./BUSBRA\Masks\mask_0016-l.png,malignant,16,invasive ductal carcinoma,4,left,"[60,114,120,109]",273,384,1
+BUS-BRA,bus_0716-s,./BUSBRA\Images\bus_0716-s.png,./BUSBRA\Masks\mask_0716-s.png,benign,716,fibroadenoma,3,single,"[174,102,92,75]",570,466,0
+BUS-BRA,bus_0567-l,./BUSBRA\Images\bus_0567-l.png,./BUSBRA\Masks\mask_0567-l.png,benign,567,fibrocystic changes,2,left,"[30,59,231,112]",320,434,0
+BUS-BRA,bus_0634-l,./BUSBRA\Images\bus_0634-l.png,./BUSBRA\Masks\mask_0634-l.png,benign,634,lipoma,2,left,"[121,44,73,59]",321,456,0
+BUS-BRA,bus_0930-r,./BUSBRA\Images\bus_0930-r.png,./BUSBRA\Masks\mask_0930-r.png,benign,930,fibroadenoma,3,right,"[39,19,221,149]",285,348,0
+BUS-BRA,bus_0882-l,./BUSBRA\Images\bus_0882-l.png,./BUSBRA\Masks\mask_0882-l.png,benign,882,fibroadenoma,2,left,"[68,82,170,43]",274,350,0
+BUS-BRA,bus_0597-r,./BUSBRA\Images\bus_0597-r.png,./BUSBRA\Masks\mask_0597-r.png,benign,597,fibroadenoma,2,right,"[127,97,63,48]",320,434,0
+BUS-BRA,bus_0150-r,./BUSBRA\Images\bus_0150-r.png,./BUSBRA\Masks\mask_0150-r.png,benign,150,fibroadenoma,3,right,"[72,23,171,113]",275,369,0
+BUS-BRA,bus_0809-s,./BUSBRA\Images\bus_0809-s.png,./BUSBRA\Masks\mask_0809-s.png,benign,809,fibroadenoma,3,single,"[158,46,322,120]",569,464,0
+BUS-BRA,bus_0668-l,./BUSBRA\Images\bus_0668-l.png,./BUSBRA\Masks\mask_0668-l.png,benign,668,cyst,2,left,"[114,71,53,56]",320,431,0
+BUS-BRA,bus_0953-r,./BUSBRA\Images\bus_0953-r.png,./BUSBRA\Masks\mask_0953-r.png,benign,953,fibroadenoma,4,right,"[128,104,56,43]",286,347,0
+BUS-BRA,bus_0869-r,./BUSBRA\Images\bus_0869-r.png,./BUSBRA\Masks\mask_0869-r.png,benign,869,cyst,2,right,"[99,106,44,25]",285,355,0
+BUS-BRA,bus_0428-l,./BUSBRA\Images\bus_0428-l.png,./BUSBRA\Masks\mask_0428-l.png,malignant,428,invasive ductal carcinoma,4,left,"[105,38,107,114]",323,437,1
+BUS-BRA,bus_0864-l,./BUSBRA\Images\bus_0864-l.png,./BUSBRA\Masks\mask_0864-l.png,benign,864,fibroadenoma,3,left,"[102,58,52,31]",274,349,0
+BUS-BRA,bus_0576-l,./BUSBRA\Images\bus_0576-l.png,./BUSBRA\Masks\mask_0576-l.png,malignant,576,invasive ductal carcinoma,4,left,"[149,116,78,92]",321,452,1
+BUS-BRA,bus_0438-r,./BUSBRA\Images\bus_0438-r.png,./BUSBRA\Masks\mask_0438-r.png,benign,438,cyst,2,right,"[21,12,291,175]",324,437,0
+BUS-BRA,bus_0317-l,./BUSBRA\Images\bus_0317-l.png,./BUSBRA\Masks\mask_0317-l.png,benign,317,cyst,2,left,"[43,102,109,65]",276,313,0
+BUS-BRA,bus_0617-r,./BUSBRA\Images\bus_0617-r.png,./BUSBRA\Masks\mask_0617-r.png,benign,617,fibroadenoma,2,right,"[124,117,94,71]",321,457,0
+BUS-BRA,bus_0982-r,./BUSBRA\Images\bus_0982-r.png,./BUSBRA\Masks\mask_0982-r.png,malignant,982,invasive ductal carcinoma,5,right,"[62,36,140,121]",283,357,1
+BUS-BRA,bus_0319-l,./BUSBRA\Images\bus_0319-l.png,./BUSBRA\Masks\mask_0319-l.png,malignant,319,invasive ductal carcinoma,5,left,"[28,66,187,145]",275,369,1
+BUS-BRA,bus_0188-l,./BUSBRA\Images\bus_0188-l.png,./BUSBRA\Masks\mask_0188-l.png,benign,188,fibroadenoma,4,left,"[60,76,153,114]",274,351,0
+BUS-BRA,bus_0183-r,./BUSBRA\Images\bus_0183-r.png,./BUSBRA\Masks\mask_0183-r.png,benign,183,fibroadenoma,3,right,"[99,29,132,90]",275,351,0
+BUS-BRA,bus_0651-l,./BUSBRA\Images\bus_0651-l.png,./BUSBRA\Masks\mask_0651-l.png,benign,651,fibrocystic changes,2,left,"[72,30,153,95]",323,449,0
+BUS-BRA,bus_0092-r,./BUSBRA\Images\bus_0092-r.png,./BUSBRA\Masks\mask_0092-r.png,benign,92,fibroadenoma,2,right,"[44,43,135,59]",276,352,0
+BUS-BRA,bus_0099-r,./BUSBRA\Images\bus_0099-r.png,./BUSBRA\Masks\mask_0099-r.png,benign,99,cyst,3,right,"[83,90,144,127]",276,353,0
+BUS-BRA,bus_0584-l,./BUSBRA\Images\bus_0584-l.png,./BUSBRA\Masks\mask_0584-l.png,benign,584,fibroadenoma,4,left,"[47,140,112,98]",270,398,0
+BUS-BRA,bus_0596-r,./BUSBRA\Images\bus_0596-r.png,./BUSBRA\Masks\mask_0596-r.png,malignant,596,invasive ductal carcinoma,4,right,"[66,112,141,115]",270,398,1
+BUS-BRA,bus_0166-r,./BUSBRA\Images\bus_0166-r.png,./BUSBRA\Masks\mask_0166-r.png,benign,166,fibroadenoma,3,right,"[100,138,118,71]",276,352,0
+BUS-BRA,bus_0868-l,./BUSBRA\Images\bus_0868-l.png,./BUSBRA\Masks\mask_0868-l.png,benign,868,sclerosing adenosis,2,left,"[110,84,45,41]",272,351,0
+BUS-BRA,bus_0374-r,./BUSBRA\Images\bus_0374-r.png,./BUSBRA\Masks\mask_0374-r.png,benign,374,fibroadenoma,2,right,"[117,89,119,52]",322,442,0
+BUS-BRA,bus_0518-r,./BUSBRA\Images\bus_0518-r.png,./BUSBRA\Masks\mask_0518-r.png,benign,518,fibroadenoma,2,right,"[55,79,207,119]",322,434,0
+BUS-BRA,bus_0860-r,./BUSBRA\Images\bus_0860-r.png,./BUSBRA\Masks\mask_0860-r.png,malignant,860,invasive ductal carcinoma,5,right,"[116,143,116,158]",316,410,1
+BUS-BRA,bus_0532-r,./BUSBRA\Images\bus_0532-r.png,./BUSBRA\Masks\mask_0532-r.png,malignant,532,invasive ductal carcinoma,4,right,"[53,49,136,138]",324,435,1
+BUS-BRA,bus_1003-l,./BUSBRA\Images\bus_1003-l.png,./BUSBRA\Masks\mask_1003-l.png,benign,1003,fibroadenoma,4,left,"[114,77,65,43]",276,305,0
+BUS-BRA,bus_0853-l,./BUSBRA\Images\bus_0853-l.png,./BUSBRA\Masks\mask_0853-l.png,malignant,853,invasive ductal carcinoma,4,left,"[99,131,87,140]",318,404,1
+BUS-BRA,bus_0922-l,./BUSBRA\Images\bus_0922-l.png,./BUSBRA\Masks\mask_0922-l.png,benign,922,fibroadenoma,3,left,"[59,70,120,52]",273,352,0
+BUS-BRA,bus_0081-s,./BUSBRA\Images\bus_0081-s.png,./BUSBRA\Masks\mask_0081-s.png,benign,81,hamartoma,2,single,"[32,23,205,111]",277,352,0
+BUS-BRA,bus_0424-r,./BUSBRA\Images\bus_0424-r.png,./BUSBRA\Masks\mask_0424-r.png,benign,424,fibroadenoma,2,right,"[48,158,103,65]",323,452,0
+BUS-BRA,bus_1032-r,./BUSBRA\Images\bus_1032-r.png,./BUSBRA\Masks\mask_1032-r.png,malignant,1032,invasive ductal carcinoma,4,right,"[63,43,110,64]",277,315,1
+BUS-BRA,bus_0977-r,./BUSBRA\Images\bus_0977-r.png,./BUSBRA\Masks\mask_0977-r.png,benign,977,fibroadenoma,4,right,"[43,88,148,67]",286,349,0
+BUS-BRA,bus_0129-r,./BUSBRA\Images\bus_0129-r.png,./BUSBRA\Masks\mask_0129-r.png,benign,129,lipoma,2,right,"[130,158,79,32]",277,353,0
+BUS-BRA,bus_0642-r,./BUSBRA\Images\bus_0642-r.png,./BUSBRA\Masks\mask_0642-r.png,benign,642,fibroadenoma,2,right,"[110,151,126,55]",320,434,0
+BUS-BRA,bus_0298-l,./BUSBRA\Images\bus_0298-l.png,./BUSBRA\Masks\mask_0298-l.png,malignant,298,ductal carcinoma in situ,3,left,"[112,107,59,26]",276,369,1
+BUS-BRA,bus_0605-l,./BUSBRA\Images\bus_0605-l.png,./BUSBRA\Masks\mask_0605-l.png,malignant,605,invasive ductal carcinoma,4,left,"[26,8,263,168]",323,433,1
+BUS-BRA,bus_0048-l,./BUSBRA\Images\bus_0048-l.png,./BUSBRA\Masks\mask_0048-l.png,malignant,48,invasive ductal carcinoma,4,left,"[92,133,100,65]",276,352,1
+BUS-BRA,bus_0154-r,./BUSBRA\Images\bus_0154-r.png,./BUSBRA\Masks\mask_0154-r.png,benign,154,fibroadenoma,4,right,"[106,91,127,76]",275,352,0
+BUS-BRA,bus_1063-r,./BUSBRA\Images\bus_1063-r.png,./BUSBRA\Masks\mask_1063-r.png,malignant,1063,invasive ductal carcinoma,4,right,"[32,38,144,96]",276,307,1
+BUS-BRA,bus_0012-l,./BUSBRA\Images\bus_0012-l.png,./BUSBRA\Masks\mask_0012-l.png,malignant,12,invasive ductal carcinoma,4,left,"[78,111,118,51]",275,351,1
+BUS-BRA,bus_1030-r,./BUSBRA\Images\bus_1030-r.png,./BUSBRA\Masks\mask_1030-r.png,benign,1030,hyperplasia,3,right,"[142,59,29,23]",276,305,0
+BUS-BRA,bus_0044-r,./BUSBRA\Images\bus_0044-r.png,./BUSBRA\Masks\mask_0044-r.png,benign,44,fibroadenoma,4,right,"[69,66,83,43]",276,385,0
+BUS-BRA,bus_0616-l,./BUSBRA\Images\bus_0616-l.png,./BUSBRA\Masks\mask_0616-l.png,benign,616,fibroadenoma,4,left,"[60,42,152,133]",271,395,0
+BUS-BRA,bus_0359-l,./BUSBRA\Images\bus_0359-l.png,./BUSBRA\Masks\mask_0359-l.png,benign,359,intraductal papilloma,4,left,"[73,151,155,134]",320,435,0
+BUS-BRA,bus_0030-s,./BUSBRA\Images\bus_0030-s.png,./BUSBRA\Masks\mask_0030-s.png,malignant,30,invasive ductal carcinoma,4,single,"[27,102,325,173]",404,386,1
+BUS-BRA,bus_0210-l,./BUSBRA\Images\bus_0210-l.png,./BUSBRA\Masks\mask_0210-l.png,benign,210,fibroadenoma,2,left,"[111,88,96,32]",277,313,0
+BUS-BRA,bus_0409-r,./BUSBRA\Images\bus_0409-r.png,./BUSBRA\Masks\mask_0409-r.png,benign,409,sclerosing adenosis,2,right,"[125,17,113,54]",322,435,0
+BUS-BRA,bus_0913-r,./BUSBRA\Images\bus_0913-r.png,./BUSBRA\Masks\mask_0913-r.png,benign,913,fibroadenoma,3,right,"[54,36,198,95]",287,354,0
+BUS-BRA,bus_0364-r,./BUSBRA\Images\bus_0364-r.png,./BUSBRA\Masks\mask_0364-r.png,malignant,364,invasive ductal carcinoma,5,right,"[75,111,200,221]",323,450,1
+BUS-BRA,bus_0039-l,./BUSBRA\Images\bus_0039-l.png,./BUSBRA\Masks\mask_0039-l.png,benign,39,fibroadenoma,4,left,"[79,69,124,50]",274,370,0
+BUS-BRA,bus_0903-r,./BUSBRA\Images\bus_0903-r.png,./BUSBRA\Masks\mask_0903-r.png,benign,903,cyst,3,right,"[124,85,72,43]",285,352,0
+BUS-BRA,bus_0149-l,./BUSBRA\Images\bus_0149-l.png,./BUSBRA\Masks\mask_0149-l.png,benign,149,fibroadenoma,3,left,"[52,72,176,76]",274,352,0
+BUS-BRA,bus_0136-l,./BUSBRA\Images\bus_0136-l.png,./BUSBRA\Masks\mask_0136-l.png,benign,136,fibroadenoma,4,left,"[10,98,258,131]",273,350,0
+BUS-BRA,bus_0692-s,./BUSBRA\Images\bus_0692-s.png,./BUSBRA\Masks\mask_0692-s.png,benign,692,fibroadenoma,2,single,"[153,50,72,37]",381,472,0
+BUS-BRA,bus_1002-r,./BUSBRA\Images\bus_1002-r.png,./BUSBRA\Masks\mask_1002-r.png,malignant,1002,invasive ductal carcinoma,5,right,"[62,46,72,88]",276,303,1
+BUS-BRA,bus_0239-r,./BUSBRA\Images\bus_0239-r.png,./BUSBRA\Masks\mask_0239-r.png,malignant,239,invasive ductal carcinoma,3,right,"[106,89,64,32]",275,383,1
+BUS-BRA,bus_0204-r,./BUSBRA\Images\bus_0204-r.png,./BUSBRA\Masks\mask_0204-r.png,benign,204,fibroadenoma,3,right,"[93,75,154,45]",280,346,0
+BUS-BRA,bus_0911-l,./BUSBRA\Images\bus_0911-l.png,./BUSBRA\Masks\mask_0911-l.png,benign,911,fibroadenoma,3,left,"[46,97,108,57]",275,355,0
+BUS-BRA,bus_0253-r,./BUSBRA\Images\bus_0253-r.png,./BUSBRA\Masks\mask_0253-r.png,malignant,253,invasive ductal carcinoma,4,right,"[86,84,143,95]",280,344,1
+BUS-BRA,bus_1043-r,./BUSBRA\Images\bus_1043-r.png,./BUSBRA\Masks\mask_1043-r.png,malignant,1043,invasive ductal carcinoma,4,right,"[100,98,76,70]",276,311,1
+BUS-BRA,bus_0944-l,./BUSBRA\Images\bus_0944-l.png,./BUSBRA\Masks\mask_0944-l.png,malignant,944,invasive ductal carcinoma,4,left,"[117,76,97,67]",283,352,1
+BUS-BRA,bus_0343-l,./BUSBRA\Images\bus_0343-l.png,./BUSBRA\Masks\mask_0343-l.png,malignant,343,invasive ductal carcinoma,5,left,"[42,78,165,83]",280,406,1
+BUS-BRA,bus_0034-l,./BUSBRA\Images\bus_0034-l.png,./BUSBRA\Masks\mask_0034-l.png,malignant,34,invasive ductal carcinoma,4,left,"[98,13,98,118]",273,351,1
+BUS-BRA,bus_0946-s,./BUSBRA\Images\bus_0946-s.png,./BUSBRA\Masks\mask_0946-s.png,malignant,946,invasive ductal carcinoma,4,single,"[36,110,309,206]",359,348,1
+BUS-BRA,bus_1044-r,./BUSBRA\Images\bus_1044-r.png,./BUSBRA\Masks\mask_1044-r.png,benign,1044,lobular atrophy,4,right,"[112,62,72,52]",276,309,0
+BUS-BRA,bus_0383-r,./BUSBRA\Images\bus_0383-r.png,./BUSBRA\Masks\mask_0383-r.png,benign,383,fibroadenoma,2,right,"[46,42,196,124]",322,434,0
+BUS-BRA,bus_0255-r,./BUSBRA\Images\bus_0255-r.png,./BUSBRA\Masks\mask_0255-r.png,benign,255,fibroadenoma,3,right,"[143,71,54,40]",276,384,0
+BUS-BRA,bus_0174-l,./BUSBRA\Images\bus_0174-l.png,./BUSBRA\Masks\mask_0174-l.png,benign,174,fibroadenoma,2,left,"[65,58,140,71]",274,370,0
+BUS-BRA,bus_0431-r,./BUSBRA\Images\bus_0431-r.png,./BUSBRA\Masks\mask_0431-r.png,malignant,431,invasive ductal carcinoma,4,right,"[79,85,126,127]",322,456,1
+BUS-BRA,bus_0206-l,./BUSBRA\Images\bus_0206-l.png,./BUSBRA\Masks\mask_0206-l.png,malignant,206,invasive ductal carcinoma,5,left,"[17,114,205,177]",274,351,1
+BUS-BRA,bus_0686-s,./BUSBRA\Images\bus_0686-s.png,./BUSBRA\Masks\mask_0686-s.png,benign,686,fibroadenoma,3,single,"[209,97,195,127]",571,471,0
+BUS-BRA,bus_0695-l,./BUSBRA\Images\bus_0695-l.png,./BUSBRA\Masks\mask_0695-l.png,benign,695,fibroadenoma,3,left,"[72,91,169,55]",345,470,0
+BUS-BRA,bus_0187-r,./BUSBRA\Images\bus_0187-r.png,./BUSBRA\Masks\mask_0187-r.png,benign,187,fibroadenoma,3,right,"[62,83,157,109]",276,382,0
+BUS-BRA,bus_0541-r,./BUSBRA\Images\bus_0541-r.png,./BUSBRA\Masks\mask_0541-r.png,benign,541,fibroadenoma,2,right,"[114,67,97,65]",323,432,0
+BUS-BRA,bus_0914-l,./BUSBRA\Images\bus_0914-l.png,./BUSBRA\Masks\mask_0914-l.png,benign,914,fibroadenoma,3,left,"[99,55,76,50]",277,330,0
+BUS-BRA,bus_0623-r,./BUSBRA\Images\bus_0623-r.png,./BUSBRA\Masks\mask_0623-r.png,benign,623,intraductal papilloma,4,right,"[48,111,170,98]",322,434,0
+BUS-BRA,bus_0503-l,./BUSBRA\Images\bus_0503-l.png,./BUSBRA\Masks\mask_0503-l.png,benign,503,cyst,3,left,"[80,115,90,53]",323,448,0
+BUS-BRA,bus_0290-l,./BUSBRA\Images\bus_0290-l.png,./BUSBRA\Masks\mask_0290-l.png,malignant,290,invasive ductal carcinoma,4,left,"[54,62,160,122]",276,331,1
+BUS-BRA,bus_0887-l,./BUSBRA\Images\bus_0887-l.png,./BUSBRA\Masks\mask_0887-l.png,benign,887,fibroadenoma,2,left,"[92,64,106,56]",274,350,0
+BUS-BRA,bus_0463-r,./BUSBRA\Images\bus_0463-r.png,./BUSBRA\Masks\mask_0463-r.png,benign,463,cyst,4,right,"[70,79,200,126]",322,445,0
+BUS-BRA,bus_0024-l,./BUSBRA\Images\bus_0024-l.png,./BUSBRA\Masks\mask_0024-l.png,benign,24,fibroadenoma,4,left,"[53,52,183,116]",278,335,0
+BUS-BRA,bus_0193-l,./BUSBRA\Images\bus_0193-l.png,./BUSBRA\Masks\mask_0193-l.png,malignant,193,invasive ductal carcinoma,4,left,"[53,62,154,95]",274,369,1
+BUS-BRA,bus_0466-l,./BUSBRA\Images\bus_0466-l.png,./BUSBRA\Masks\mask_0466-l.png,benign,466,fibroadenoma,2,left,"[52,73,77,58]",321,451,0
+BUS-BRA,bus_0479-r,./BUSBRA\Images\bus_0479-r.png,./BUSBRA\Masks\mask_0479-r.png,benign,479,fibroadenoma,2,right,"[49,105,222,120]",324,433,0
+BUS-BRA,bus_0131-r,./BUSBRA\Images\bus_0131-r.png,./BUSBRA\Masks\mask_0131-r.png,benign,131,cyst,2,right,"[67,34,185,121]",275,368,0
+BUS-BRA,bus_0300-r,./BUSBRA\Images\bus_0300-r.png,./BUSBRA\Masks\mask_0300-r.png,benign,300,phyllodes tumor,3,right,"[49,27,204,130]",276,369,0
+BUS-BRA,bus_0962-r,./BUSBRA\Images\bus_0962-r.png,./BUSBRA\Masks\mask_0962-r.png,benign,962,fibrocystic changes,4,right,"[67,86,162,122]",284,348,0
+BUS-BRA,bus_1014-l,./BUSBRA\Images\bus_1014-l.png,./BUSBRA\Masks\mask_1014-l.png,malignant,1014,invasive ductal carcinoma,4,left,"[68,80,164,104]",276,305,1
+BUS-BRA,bus_1055-r,./BUSBRA\Images\bus_1055-r.png,./BUSBRA\Masks\mask_1055-r.png,malignant,1055,invasive ductal carcinoma,4,right,"[95,78,53,42]",276,303,1
+BUS-BRA,bus_0646-l,./BUSBRA\Images\bus_0646-l.png,./BUSBRA\Masks\mask_0646-l.png,benign,646,fibroadenoma,2,left,"[82,143,68,48]",321,434,0
+BUS-BRA,bus_1036-l,./BUSBRA\Images\bus_1036-l.png,./BUSBRA\Masks\mask_1036-l.png,malignant,1036,invasive ductal carcinoma,5,left,"[155,131,91,55]",276,305,1
+BUS-BRA,bus_0267-l,./BUSBRA\Images\bus_0267-l.png,./BUSBRA\Masks\mask_0267-l.png,malignant,267,invasive ductal carcinoma,4,left,"[32,58,193,131]",274,382,1
+BUS-BRA,bus_0990-r,./BUSBRA\Images\bus_0990-r.png,./BUSBRA\Masks\mask_0990-r.png,malignant,990,invasive ductal carcinoma,4,right,"[120,47,261,168]",534,352,1
+BUS-BRA,bus_0467-l,./BUSBRA\Images\bus_0467-l.png,./BUSBRA\Masks\mask_0467-l.png,malignant,467,invasive ductal carcinoma,4,left,"[45,131,149,106]",322,453,1
+BUS-BRA,bus_0540-l,./BUSBRA\Images\bus_0540-l.png,./BUSBRA\Masks\mask_0540-l.png,benign,540,fibroadenoma,2,left,"[30,71,223,178]",320,456,0
+BUS-BRA,bus_0395-r,./BUSBRA\Images\bus_0395-r.png,./BUSBRA\Masks\mask_0395-r.png,benign,395,fibroadenoma,2,right,"[99,145,86,59]",323,448,0
+BUS-BRA,bus_0973-l,./BUSBRA\Images\bus_0973-l.png,./BUSBRA\Masks\mask_0973-l.png,benign,973,fibroadenoma,4,left,"[82,122,126,54]",275,359,0
+BUS-BRA,bus_0309-l,./BUSBRA\Images\bus_0309-l.png,./BUSBRA\Masks\mask_0309-l.png,benign,309,fibroadenoma,3,left,"[70,49,111,49]",276,296,0
+BUS-BRA,bus_0165-r,./BUSBRA\Images\bus_0165-r.png,./BUSBRA\Masks\mask_0165-r.png,malignant,165,mucinous carcinoma,4,right,"[29,28,197,107]",248,389,1
+BUS-BRA,bus_0398-r,./BUSBRA\Images\bus_0398-r.png,./BUSBRA\Masks\mask_0398-r.png,benign,398,fibroadenoma,2,right,"[106,66,143,128]",320,434,0
+BUS-BRA,bus_0172-r,./BUSBRA\Images\bus_0172-r.png,./BUSBRA\Masks\mask_0172-r.png,benign,172,fibroadenoma,3,right,"[77,85,161,76]",276,351,0
+BUS-BRA,bus_0964-l,./BUSBRA\Images\bus_0964-l.png,./BUSBRA\Masks\mask_0964-l.png,benign,964,hyperplasia,4,left,"[83,69,124,109]",274,347,0
+BUS-BRA,bus_0952-r,./BUSBRA\Images\bus_0952-r.png,./BUSBRA\Masks\mask_0952-r.png,benign,952,fibroadenoma,4,right,"[43,91,209,117]",289,352,0
+BUS-BRA,bus_0514-r,./BUSBRA\Images\bus_0514-r.png,./BUSBRA\Masks\mask_0514-r.png,benign,514,fibroadenoma,2,right,"[67,128,96,49]",324,450,0
+BUS-BRA,bus_0995-l,./BUSBRA\Images\bus_0995-l.png,./BUSBRA\Masks\mask_0995-l.png,benign,995,fibrocystic changes,4,left,"[39,32,183,74]",275,306,0
+BUS-BRA,bus_1040-r,./BUSBRA\Images\bus_1040-r.png,./BUSBRA\Masks\mask_1040-r.png,malignant,1040,invasive ductal carcinoma,4,right,"[112,55,68,76]",276,303,1
+BUS-BRA,bus_0180-r,./BUSBRA\Images\bus_0180-r.png,./BUSBRA\Masks\mask_0180-r.png,malignant,180,invasive ductal carcinoma,4,right,"[74,60,163,134]",275,371,1
+BUS-BRA,bus_0231-l,./BUSBRA\Images\bus_0231-l.png,./BUSBRA\Masks\mask_0231-l.png,malignant,231,invasive ductal carcinoma,4,left,"[35,32,180,111]",275,351,1
+BUS-BRA,bus_0524-l,./BUSBRA\Images\bus_0524-l.png,./BUSBRA\Masks\mask_0524-l.png,benign,524,fibroadenoma,4,left,"[111,117,144,94]",321,435,0
+BUS-BRA,bus_0225-r,./BUSBRA\Images\bus_0225-r.png,./BUSBRA\Masks\mask_0225-r.png,malignant,225,invasive ductal carcinoma,4,right,"[65,25,182,76]",276,315,1
+BUS-BRA,bus_0588-r,./BUSBRA\Images\bus_0588-r.png,./BUSBRA\Masks\mask_0588-r.png,malignant,588,invasive ductal carcinoma,4,right,"[72,106,127,108]",271,396,1
+BUS-BRA,bus_0602-l,./BUSBRA\Images\bus_0602-l.png,./BUSBRA\Masks\mask_0602-l.png,malignant,602,invasive ductal carcinoma,4,left,"[55,52,235,112]",324,432,1
+BUS-BRA,bus_0514-l,./BUSBRA\Images\bus_0514-l.png,./BUSBRA\Masks\mask_0514-l.png,benign,514,fibroadenoma,2,left,"[82,128,128,61]",321,450,0
+BUS-BRA,bus_0229-r,./BUSBRA\Images\bus_0229-r.png,./BUSBRA\Masks\mask_0229-r.png,benign,229,intraductal papilloma,4,right,"[61,81,172,132]",277,382,0
+BUS-BRA,bus_0570-l,./BUSBRA\Images\bus_0570-l.png,./BUSBRA\Masks\mask_0570-l.png,benign,570,fibroadenoma,2,left,"[37,99,200,129]",319,454,0
+BUS-BRA,bus_0230-r,./BUSBRA\Images\bus_0230-r.png,./BUSBRA\Masks\mask_0230-r.png,malignant,230,invasive ductal carcinoma,4,right,"[75,83,102,70]",276,383,1
+BUS-BRA,bus_0050-r,./BUSBRA\Images\bus_0050-r.png,./BUSBRA\Masks\mask_0050-r.png,malignant,50,papillary carcinoma,4,right,"[66,38,169,107]",276,369,1
+BUS-BRA,bus_0251-l,./BUSBRA\Images\bus_0251-l.png,./BUSBRA\Masks\mask_0251-l.png,malignant,251,invasive ductal carcinoma,4,left,"[46,42,159,92]",273,383,1
+BUS-BRA,bus_0014-s,./BUSBRA\Images\bus_0014-s.png,./BUSBRA\Masks\mask_0014-s.png,malignant,14,invasive ductal carcinoma,4,single,"[142,39,53,51]",360,385,1
+BUS-BRA,bus_0463-l,./BUSBRA\Images\bus_0463-l.png,./BUSBRA\Masks\mask_0463-l.png,benign,463,cyst,4,left,"[108,104,151,113]",319,445,0
+BUS-BRA,bus_0603-l,./BUSBRA\Images\bus_0603-l.png,./BUSBRA\Masks\mask_0603-l.png,benign,603,fibroadenoma,2,left,"[85,52,146,67]",319,455,0
+BUS-BRA,bus_0579-r,./BUSBRA\Images\bus_0579-r.png,./BUSBRA\Masks\mask_0579-r.png,benign,579,fibroadenoma,2,right,"[56,38,227,153]",322,435,0
+BUS-BRA,bus_0840-s,./BUSBRA\Images\bus_0840-s.png,./BUSBRA\Masks\mask_0840-s.png,benign,840,fibrocystic changes,3,single,"[173,40,149,69]",565,465,0
+BUS-BRA,bus_0313-r,./BUSBRA\Images\bus_0313-r.png,./BUSBRA\Masks\mask_0313-r.png,benign,313,proliferative lesions,2,right,"[152,47,52,24]",276,350,0
+BUS-BRA,bus_0024-r,./BUSBRA\Images\bus_0024-r.png,./BUSBRA\Masks\mask_0024-r.png,benign,24,fibroadenoma,4,right,"[58,48,120,129]",275,335,0
+BUS-BRA,bus_0497-r,./BUSBRA\Images\bus_0497-r.png,./BUSBRA\Masks\mask_0497-r.png,benign,497,fibrocystic changes,2,right,"[125,137,106,72]",322,454,0
+BUS-BRA,bus_0938-r,./BUSBRA\Images\bus_0938-r.png,./BUSBRA\Masks\mask_0938-r.png,malignant,938,mucinous carcinoma,4,right,"[92,37,132,84]",286,351,1
+BUS-BRA,bus_0420-l,./BUSBRA\Images\bus_0420-l.png,./BUSBRA\Masks\mask_0420-l.png,benign,420,fibroadenoma,2,left,"[43,146,122,77]",319,453,0
+BUS-BRA,bus_0889-l,./BUSBRA\Images\bus_0889-l.png,./BUSBRA\Masks\mask_0889-l.png,benign,889,fibroadenoma,2,left,"[77,100,72,29]",271,353,0
+BUS-BRA,bus_0886-s,./BUSBRA\Images\bus_0886-s.png,./BUSBRA\Masks\mask_0886-s.png,benign,886,fibroadenoma,2,single,"[147,29,169,94]",471,308,0
+BUS-BRA,bus_0757-s,./BUSBRA\Images\bus_0757-s.png,./BUSBRA\Masks\mask_0757-s.png,benign,757,fibroadenoma,4,single,"[156,42,276,157]",569,470,0
+BUS-BRA,bus_0931-r,./BUSBRA\Images\bus_0931-r.png,./BUSBRA\Masks\mask_0931-r.png,benign,931,phyllodes tumor,3,right,"[7,53,268,165]",285,352,0
+BUS-BRA,bus_0684-s,./BUSBRA\Images\bus_0684-s.png,./BUSBRA\Masks\mask_0684-s.png,benign,684,fibroadenoma,2,single,"[224,129,95,52]",567,472,0
+BUS-BRA,bus_0637-l,./BUSBRA\Images\bus_0637-l.png,./BUSBRA\Masks\mask_0637-l.png,benign,637,cyst,2,left,"[65,93,58,41]",320,434,0
+BUS-BRA,bus_0517-l,./BUSBRA\Images\bus_0517-l.png,./BUSBRA\Masks\mask_0517-l.png,benign,517,sclerosing adenosis,2,left,"[156,188,56,45]",323,435,0
+BUS-BRA,bus_0396-l,./BUSBRA\Images\bus_0396-l.png,./BUSBRA\Masks\mask_0396-l.png,malignant,396,invasive ductal carcinoma,5,left,"[18,117,290,241]",322,448,1
+BUS-BRA,bus_0673-l,./BUSBRA\Images\bus_0673-l.png,./BUSBRA\Masks\mask_0673-l.png,malignant,673,invasive ductal carcinoma,5,left,"[67,85,199,187]",321,435,1
+BUS-BRA,bus_0385-l,./BUSBRA\Images\bus_0385-l.png,./BUSBRA\Masks\mask_0385-l.png,benign,385,cyst,4,left,"[58,94,119,121]",322,451,0
+BUS-BRA,bus_0935-l,./BUSBRA\Images\bus_0935-l.png,./BUSBRA\Masks\mask_0935-l.png,malignant,935,invasive lobular carcinoma,4,left,"[97,37,78,62]",276,347,1
+BUS-BRA,bus_0790-s,./BUSBRA\Images\bus_0790-s.png,./BUSBRA\Masks\mask_0790-s.png,benign,790,fibroadenoma,3,single,"[162,66,156,95]",567,469,0
+BUS-BRA,bus_0904-l,./BUSBRA\Images\bus_0904-l.png,./BUSBRA\Masks\mask_0904-l.png,benign,904,cyst,3,left,"[89,110,122,38]",280,351,0
+BUS-BRA,bus_0450-l,./BUSBRA\Images\bus_0450-l.png,./BUSBRA\Masks\mask_0450-l.png,malignant,450,invasive ductal carcinoma,4,left,"[88,73,134,163]",325,455,1
+BUS-BRA,bus_0644-r,./BUSBRA\Images\bus_0644-r.png,./BUSBRA\Masks\mask_0644-r.png,malignant,644,invasive ductal carcinoma,4,right,"[61,107,206,149]",325,435,1
+BUS-BRA,bus_0956-r,./BUSBRA\Images\bus_0956-r.png,./BUSBRA\Masks\mask_0956-r.png,benign,956,fibroadenoma,4,right,"[68,87,150,70]",287,349,0
+BUS-BRA,bus_0607-l,./BUSBRA\Images\bus_0607-l.png,./BUSBRA\Masks\mask_0607-l.png,benign,607,cyst,2,left,"[132,65,62,59]",322,435,0
+BUS-BRA,bus_0067-l,./BUSBRA\Images\bus_0067-l.png,./BUSBRA\Masks\mask_0067-l.png,benign,67,fibroadenoma,4,left,"[83,111,96,68]",277,386,0
+BUS-BRA,bus_0925-l,./BUSBRA\Images\bus_0925-l.png,./BUSBRA\Masks\mask_0925-l.png,benign,925,fibroadenoma,3,left,"[126,34,65,55]",278,355,0
+BUS-BRA,bus_0085-l,./BUSBRA\Images\bus_0085-l.png,./BUSBRA\Masks\mask_0085-l.png,benign,85,fibroadenoma,3,left,"[45,109,121,65]",282,409,0
+BUS-BRA,bus_0006-s,./BUSBRA\Images\bus_0006-s.png,./BUSBRA\Masks\mask_0006-s.png,malignant,6,invasive ductal carcinoma,4,single,"[135,108,211,204]",407,389,1
+BUS-BRA,bus_0865-r,./BUSBRA\Images\bus_0865-r.png,./BUSBRA\Masks\mask_0865-r.png,benign,865,fibroadenoma,3,right,"[67,73,126,62]",286,353,0
+BUS-BRA,bus_0486-l,./BUSBRA\Images\bus_0486-l.png,./BUSBRA\Masks\mask_0486-l.png,malignant,486,invasive ductal carcinoma,4,left,"[127,121,97,104]",324,453,1
+BUS-BRA,bus_0994-l,./BUSBRA\Images\bus_0994-l.png,./BUSBRA\Masks\mask_0994-l.png,benign,994,fibrocystic changes,3,left,"[93,66,67,36]",275,309,0
+BUS-BRA,bus_0969-r,./BUSBRA\Images\bus_0969-r.png,./BUSBRA\Masks\mask_0969-r.png,benign,969,intraductal papilloma,4,right,"[62,20,98,80]",286,346,0
+BUS-BRA,bus_0653-r,./BUSBRA\Images\bus_0653-r.png,./BUSBRA\Masks\mask_0653-r.png,benign,653,fibroadenoma,2,right,"[97,73,96,66]",321,434,0
+BUS-BRA,bus_0542-l,./BUSBRA\Images\bus_0542-l.png,./BUSBRA\Masks\mask_0542-l.png,benign,542,cyst,2,left,"[161,179,61,53]",320,431,0
+BUS-BRA,bus_0859-r,./BUSBRA\Images\bus_0859-r.png,./BUSBRA\Masks\mask_0859-r.png,benign,859,fibroadenoma,2,right,"[15,23,229,94]",317,405,0
+BUS-BRA,bus_0179-r,./BUSBRA\Images\bus_0179-r.png,./BUSBRA\Masks\mask_0179-r.png,benign,179,ductal hyperplasia,3,right,"[77,45,53,25]",275,384,0
+BUS-BRA,bus_0057-l,./BUSBRA\Images\bus_0057-l.png,./BUSBRA\Masks\mask_0057-l.png,malignant,57,invasive ductal carcinoma,4,left,"[11,33,258,198]",275,353,1
+BUS-BRA,bus_0156-r,./BUSBRA\Images\bus_0156-r.png,./BUSBRA\Masks\mask_0156-r.png,benign,156,fibroadenoma,2,right,"[37,41,186,91]",276,383,0
+BUS-BRA,bus_0028-r,./BUSBRA\Images\bus_0028-r.png,./BUSBRA\Masks\mask_0028-r.png,benign,28,fibroadenoma,4,right,"[125,128,90,71]",275,386,0
+BUS-BRA,bus_0936-r,./BUSBRA\Images\bus_0936-r.png,./BUSBRA\Masks\mask_0936-r.png,malignant,936,invasive lobular carcinoma,4,right,"[104,54,126,76]",287,347,1
+BUS-BRA,bus_0991-s,./BUSBRA\Images\bus_0991-s.png,./BUSBRA\Masks\mask_0991-s.png,benign,991,intraductal papilloma,4,single,"[27,79,330,121]",375,339,0
+BUS-BRA,bus_0453-l,./BUSBRA\Images\bus_0453-l.png,./BUSBRA\Masks\mask_0453-l.png,malignant,453,invasive ductal carcinoma,5,left,"[47,72,188,185]",321,455,1
+BUS-BRA,bus_0550-l,./BUSBRA\Images\bus_0550-l.png,./BUSBRA\Masks\mask_0550-l.png,benign,550,cyst,2,left,"[46,76,192,108]",321,455,0
+BUS-BRA,bus_0539-l,./BUSBRA\Images\bus_0539-l.png,./BUSBRA\Masks\mask_0539-l.png,benign,539,fibrocystic changes,4,left,"[92,201,126,88]",323,434,0
+BUS-BRA,bus_0887-r,./BUSBRA\Images\bus_0887-r.png,./BUSBRA\Masks\mask_0887-r.png,benign,887,fibroadenoma,2,right,"[73,63,114,65]",287,350,0
+BUS-BRA,bus_0482-r,./BUSBRA\Images\bus_0482-r.png,./BUSBRA\Masks\mask_0482-r.png,benign,482,fibroadenoma,2,right,"[118,75,114,68]",321,431,0
+BUS-BRA,bus_0939-s,./BUSBRA\Images\bus_0939-s.png,./BUSBRA\Masks\mask_0939-s.png,malignant,939,invasive ductal carcinoma,4,single,"[137,104,132,48]",358,349,1
+BUS-BRA,bus_0627-l,./BUSBRA\Images\bus_0627-l.png,./BUSBRA\Masks\mask_0627-l.png,benign,627,fibroadenoma,3,left,"[92,87,108,70]",270,396,0
+BUS-BRA,bus_0149-r,./BUSBRA\Images\bus_0149-r.png,./BUSBRA\Masks\mask_0149-r.png,benign,149,fibroadenoma,3,right,"[87,77,150,72]",276,352,0
+BUS-BRA,bus_0662-l,./BUSBRA\Images\bus_0662-l.png,./BUSBRA\Masks\mask_0662-l.png,benign,662,fibroadenoma,2,left,"[155,102,77,39]",317,434,0
+BUS-BRA,bus_0212-r,./BUSBRA\Images\bus_0212-r.png,./BUSBRA\Masks\mask_0212-r.png,benign,212,fibroadenoma,3,right,"[106,36,123,81]",276,367,0
+BUS-BRA,bus_0462-r,./BUSBRA\Images\bus_0462-r.png,./BUSBRA\Masks\mask_0462-r.png,benign,462,fibroadenoma,2,right,"[89,106,117,53]",322,455,0
+BUS-BRA,bus_0896-l,./BUSBRA\Images\bus_0896-l.png,./BUSBRA\Masks\mask_0896-l.png,benign,896,sclerosing adenosis,2,left,"[28,51,220,64]",274,347,0
+BUS-BRA,bus_0115-l,./BUSBRA\Images\bus_0115-l.png,./BUSBRA\Masks\mask_0115-l.png,benign,115,fibroadenoma,3,left,"[90,134,126,53]",274,371,0
+BUS-BRA,bus_0108-l,./BUSBRA\Images\bus_0108-l.png,./BUSBRA\Masks\mask_0108-l.png,benign,108,proliferative lesions,4,left,"[29,32,103,44]",275,333,0
+BUS-BRA,bus_0316-r,./BUSBRA\Images\bus_0316-r.png,./BUSBRA\Masks\mask_0316-r.png,benign,316,cyst,2,right,"[88,116,91,34]",275,314,0
+BUS-BRA,bus_1047-l,./BUSBRA\Images\bus_1047-l.png,./BUSBRA\Masks\mask_1047-l.png,benign,1047,fibrocystic changes,4,left,"[72,73,128,46]",276,304,0
+BUS-BRA,bus_0517-r,./BUSBRA\Images\bus_0517-r.png,./BUSBRA\Masks\mask_0517-r.png,benign,517,sclerosing adenosis,2,right,"[120,197,50,45]",322,435,0
+BUS-BRA,bus_0495-r,./BUSBRA\Images\bus_0495-r.png,./BUSBRA\Masks\mask_0495-r.png,benign,495,cyst,2,right,"[143,216,55,57]",322,455,0
+BUS-BRA,bus_0526-l,./BUSBRA\Images\bus_0526-l.png,./BUSBRA\Masks\mask_0526-l.png,benign,526,fibrocystic changes,2,left,"[112,97,73,54]",318,435,0
+BUS-BRA,bus_0388-r,./BUSBRA\Images\bus_0388-r.png,./BUSBRA\Masks\mask_0388-r.png,benign,388,fibroadenoma,2,right,"[169,36,87,42]",322,433,0
+BUS-BRA,bus_0878-s,./BUSBRA\Images\bus_0878-s.png,./BUSBRA\Masks\mask_0878-s.png,benign,878,cyst,2,single,"[1,68,348,221]",362,352,0
+BUS-BRA,bus_0214-r,./BUSBRA\Images\bus_0214-r.png,./BUSBRA\Masks\mask_0214-r.png,benign,214,fibroadenoma,3,right,"[107,110,87,57]",275,381,0
+BUS-BRA,bus_0253-l,./BUSBRA\Images\bus_0253-l.png,./BUSBRA\Masks\mask_0253-l.png,malignant,253,invasive ductal carcinoma,4,left,"[74,91,148,95]",281,344,1
+BUS-BRA,bus_0712-s,./BUSBRA\Images\bus_0712-s.png,./BUSBRA\Masks\mask_0712-s.png,malignant,712,invasive ductal carcinoma,5,single,"[39,80,312,195]",430,469,1
+BUS-BRA,bus_0788-s,./BUSBRA\Images\bus_0788-s.png,./BUSBRA\Masks\mask_0788-s.png,benign,788,fibroadenoma,3,single,"[198,45,193,117]",567,471,0
+BUS-BRA,bus_0505-l,./BUSBRA\Images\bus_0505-l.png,./BUSBRA\Masks\mask_0505-l.png,benign,505,fibroadenoma,3,left,"[71,53,152,116]",323,435,0
+BUS-BRA,bus_0432-r,./BUSBRA\Images\bus_0432-r.png,./BUSBRA\Masks\mask_0432-r.png,malignant,432,invasive ductal carcinoma,4,right,"[103,89,193,123]",321,437,1
+BUS-BRA,bus_0117-l,./BUSBRA\Images\bus_0117-l.png,./BUSBRA\Masks\mask_0117-l.png,benign,117,fibroadenoma,3,left,"[45,147,185,91]",276,352,0
+BUS-BRA,bus_0049-r,./BUSBRA\Images\bus_0049-r.png,./BUSBRA\Masks\mask_0049-r.png,malignant,49,invasive ductal carcinoma,4,right,"[80,133,86,67]",276,354,1
+BUS-BRA,bus_0042-l,./BUSBRA\Images\bus_0042-l.png,./BUSBRA\Masks\mask_0042-l.png,benign,42,mastitis,4,left,"[108,44,131,93]",277,372,0
+BUS-BRA,bus_0787-s,./BUSBRA\Images\bus_0787-s.png,./BUSBRA\Masks\mask_0787-s.png,benign,787,fibroadenoma,3,single,"[64,48,236,129]",429,466,0
+BUS-BRA,bus_0169-r,./BUSBRA\Images\bus_0169-r.png,./BUSBRA\Masks\mask_0169-r.png,benign,169,intraductal papilloma,2,right,"[107,126,128,32]",275,315,0
+BUS-BRA,bus_0011-l,./BUSBRA\Images\bus_0011-l.png,./BUSBRA\Masks\mask_0011-l.png,benign,11,fibroadenoma,4,left,"[52,128,140,49]",279,327,0
+BUS-BRA,bus_0900-l,./BUSBRA\Images\bus_0900-l.png,./BUSBRA\Masks\mask_0900-l.png,benign,900,sclerosing adenosis,3,left,"[79,20,113,38]",278,351,0
+BUS-BRA,bus_0863-r,./BUSBRA\Images\bus_0863-r.png,./BUSBRA\Masks\mask_0863-r.png,benign,863,fibroadenoma,2,right,"[114,89,123,48]",286,351,0
+BUS-BRA,bus_0235-r,./BUSBRA\Images\bus_0235-r.png,./BUSBRA\Masks\mask_0235-r.png,malignant,235,invasive ductal carcinoma,4,right,"[58,75,147,77]",276,351,1
+BUS-BRA,bus_0448-r,./BUSBRA\Images\bus_0448-r.png,./BUSBRA\Masks\mask_0448-r.png,malignant,448,invasive ductal carcinoma,5,right,"[68,112,212,173]",324,436,1
+BUS-BRA,bus_0893-l,./BUSBRA\Images\bus_0893-l.png,./BUSBRA\Masks\mask_0893-l.png,benign,893,fibroadenoma,2,left,"[40,30,160,61]",275,353,0
+BUS-BRA,bus_0246-l,./BUSBRA\Images\bus_0246-l.png,./BUSBRA\Masks\mask_0246-l.png,benign,246,fibroadenoma,3,left,"[39,91,148,95]",275,384,0
+BUS-BRA,bus_0515-r,./BUSBRA\Images\bus_0515-r.png,./BUSBRA\Masks\mask_0515-r.png,benign,515,cyst,2,right,"[113,108,89,93]",321,452,0
+BUS-BRA,bus_0861-r,./BUSBRA\Images\bus_0861-r.png,./BUSBRA\Masks\mask_0861-r.png,benign,861,cyst,2,right,"[114,93,74,71]",316,407,0
+BUS-BRA,bus_0401-r,./BUSBRA\Images\bus_0401-r.png,./BUSBRA\Masks\mask_0401-r.png,benign,401,fibroadenoma,2,right,"[65,37,130,65]",323,432,0
+BUS-BRA,bus_0235-l,./BUSBRA\Images\bus_0235-l.png,./BUSBRA\Masks\mask_0235-l.png,malignant,235,invasive ductal carcinoma,4,left,"[31,77,160,85]",274,351,1
+BUS-BRA,bus_0356-r,./BUSBRA\Images\bus_0356-r.png,./BUSBRA\Masks\mask_0356-r.png,malignant,356,invasive ductal carcinoma,5,right,"[49,96,123,130]",276,296,1
+BUS-BRA,bus_1018-r,./BUSBRA\Images\bus_1018-r.png,./BUSBRA\Masks\mask_1018-r.png,malignant,1018,invasive ductal carcinoma,4,right,"[63,16,172,89]",277,311,1
+BUS-BRA,bus_0474-l,./BUSBRA\Images\bus_0474-l.png,./BUSBRA\Masks\mask_0474-l.png,benign,474,fibroadenoma,2,left,"[54,55,110,66]",320,430,0
+BUS-BRA,bus_0305-r,./BUSBRA\Images\bus_0305-r.png,./BUSBRA\Masks\mask_0305-r.png,benign,305,cyst,2,right,"[123,93,41,29]",276,369,0
+BUS-BRA,bus_0445-r,./BUSBRA\Images\bus_0445-r.png,./BUSBRA\Masks\mask_0445-r.png,benign,445,fibroadenoma,2,right,"[82,51,98,52]",319,432,0
+BUS-BRA,bus_0325-l,./BUSBRA\Images\bus_0325-l.png,./BUSBRA\Masks\mask_0325-l.png,benign,325,cyst,2,left,"[71,68,120,81]",276,314,0
+BUS-BRA,bus_0959-s,./BUSBRA\Images\bus_0959-s.png,./BUSBRA\Masks\mask_0959-s.png,benign,959,fibroadenoma,4,single,"[5,23,362,244]",367,355,0
+BUS-BRA,bus_0363-l,./BUSBRA\Images\bus_0363-l.png,./BUSBRA\Masks\mask_0363-l.png,benign,363,intraductal papilloma,3,left,"[80,153,152,94]",320,432,0
+BUS-BRA,bus_0090-l,./BUSBRA\Images\bus_0090-l.png,./BUSBRA\Masks\mask_0090-l.png,benign,90,cyst,2,left,"[80,54,124,66]",277,298,0
+BUS-BRA,bus_0888-r,./BUSBRA\Images\bus_0888-r.png,./BUSBRA\Masks\mask_0888-r.png,benign,888,fibroadenoma,2,right,"[66,68,126,54]",287,355,0
+BUS-BRA,bus_1050-l,./BUSBRA\Images\bus_1050-l.png,./BUSBRA\Masks\mask_1050-l.png,malignant,1050,invasive ductal carcinoma,4,left,"[62,73,125,84]",276,304,1
